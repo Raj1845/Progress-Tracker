@@ -1,0 +1,5 @@
+{
+  "name": "Progress Tracker",
+  "description": "A modern and sleek web application to track your daily exercise habits, including sets, reps, and weight for each workout.",
+  "requestFramePermissions": []
+}
